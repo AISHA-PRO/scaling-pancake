@@ -1,2 +1,1 @@
-this is readme file 
-from terminal
+hi this is second version of readme file
